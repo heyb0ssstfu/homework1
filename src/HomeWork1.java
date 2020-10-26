@@ -22,7 +22,7 @@ public class HomeWork1 {
         System.out.println("Значение типа char =" + sum1);
     }
 
-    
+
     public static int task3(int a, int b, int c, int d) {
         return a * (b + (c / d));
     }
